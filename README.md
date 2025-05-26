@@ -4,13 +4,13 @@ A clean and modern todo list application built with Flutter. This app demonstrat
 
 ## Features
 
-- ✨ Clean and modern Material Design 3 UI
-- ✅ Add new tasks with a title
-- 📝 Mark tasks as complete/incomplete
-- 🗑️ Delete tasks (swipe or button)
-- 🎨 Beautiful animations and transitions
-- 📱 Responsive design
-- 🌈 Custom theme with gradient background
+- Clean and modern Material Design 3 UI
+- Add new tasks with a title
+- Mark tasks as complete/incomplete
+- Delete tasks (swipe or button)
+- Beautiful animations and transitions
+- Responsive design
+- Custom theme with gradient background
 
 ## Screenshots
 ![b4986e9d-47ad-4d7b-83ae-c00321cbf44c](https://github.com/user-attachments/assets/7683424f-5e05-4cf1-811b-5817218d0572)
@@ -106,21 +106,3 @@ lib/
 The project uses the following main dependencies:
 - Flutter SDK
 - Material Design 3
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design team for the design system
-- The Flutter community for inspiration and support
