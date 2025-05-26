@@ -13,8 +13,13 @@ A clean and modern todo list application built with Flutter. This app demonstrat
 - 🌈 Custom theme with gradient background
 
 ## Screenshots
+![b4986e9d-47ad-4d7b-83ae-c00321cbf44c](https://github.com/user-attachments/assets/7683424f-5e05-4cf1-811b-5817218d0572)
 
-(Screenshots will be added here)
+![47ce8750-c33d-4f75-8a1e-1b50e5fe388d](https://github.com/user-attachments/assets/6c3db8b6-33b3-4843-8c14-d6890c065677)
+
+![0465ed05-c470-4882-965d-ebd666a47fa7](https://github.com/user-attachments/assets/8bdc0c85-0c04-414a-a7a6-e61a7a2f1d03)
+
+![1172430d-07e5-404f-be2a-6f2b7bbf7a44](https://github.com/user-attachments/assets/8dc3bedb-d8c4-44bd-a2c2-3abd8794cfdc)
 
 ## Getting Started
 
